@@ -1,0 +1,35 @@
+/* TermsAndConditions.module.css */
+.termsContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.title {
+  text-align: center;
+  color: #333;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.sectionTitle {
+  color: #2c3e50;
+  border-bottom: 1px solid #ecf0f1;
+  padding-bottom: 10px;
+}
+
+.paragraph {
+  margin-bottom: 10px;
+}
+
+.list {
+  margin-left: 20px;
+}
+
+.listItem {
+  margin-bottom: 5px;
+}
